@@ -1,4 +1,4 @@
-# 🦿 Deep learning approaches to create generative models of lower limb sockets
+# 🦿 The Effect of Augmentation and Transfer Learning on the Modelling of Lower-limb Sockets using 3D Adversarial Autoencoders
 
 > Companion repository of the paper _"The Effect of Augmentation and Transfer Learning on the Modelling of Lower-limb Sockets using 3D Adversarial Autoencoders"_, submited for review to the [Special Issue "Generative Models in Artificial Intelligence and Their Applications"](https://www.mdpi.com/journal/applsci/special_issues/Generative_Models_Applications) of [Applied Sciences](https://www.mdpi.com/journal/applsci) (ISSN 2076-3417; CODEN: ASPCC7).
 
