@@ -1,7 +1,5 @@
 # 🦿 The Effect of Augmentation and Transfer Learning on the Modelling of Lower-limb Sockets using 3D Adversarial Autoencoders
 
-> Companion repository of the paper _"The Effect of Augmentation and Transfer Learning on the Modelling of Lower-limb Sockets using 3D Adversarial Autoencoders"_, submited for review to the [Special Issue "Generative Models in Artificial Intelligence and Their Applications"](https://www.mdpi.com/journal/applsci/special_issues/Generative_Models_Applications) of [Applied Sciences](https://www.mdpi.com/journal/applsci) (ISSN 2076-3417; CODEN: ASPCC7).
-
 This repository contains a **script and instructions on how to train an Adversarial Autoencoder on a custom dataset of 3D (`x`, `y`, `z`) data** (following the training schema described in the companion paper) **as well as weights obtained during pre-training on the ModelNet dataset**, useful for transfer learning. The socket-specific augmented dataset used throughout the paper is also [available in another repository](https://github.com/adapttech-ltd/SocketSSM).
 
 ![system_schema](figures/aae.png?raw=true)
